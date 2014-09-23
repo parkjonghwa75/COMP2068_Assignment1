@@ -65,8 +65,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="aboutMe.html" />
+    <Content Include="contact.html" />
     <Content Include="humans.txt" />
     <Content Include="index.html" />
+    <Content Include="projects.html" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\foundation.min.js" />
     <Content Include="Scripts\foundation\foundation.abide.js" />
@@ -91,6 +94,7 @@
     <Content Include="Scripts\vendor\jquery.js" />
     <Content Include="Scripts\vendor\modernizr.js" />
     <Content Include="Scripts\vendor\placeholder.js" />
+    <Content Include="services.html" />
     <Content Include="Styles\foundation.css" />
     <Content Include="Styles\foundation.min.css" />
     <Content Include="Styles\normalize.css" />
