@@ -69,9 +69,12 @@
     <Content Include="contact.html" />
     <Content Include="gitHub.html" />
     <Content Include="humans.txt" />
+    <Content Include="img\cams.jpg" />
+    <Content Include="img\eclipse.jpg" />
     <Content Include="img\face.jpg" />
     <Content Include="img\hat.jpg" />
     <Content Include="img\logo.jpg" />
+    <Content Include="img\sony.jpg" />
     <Content Include="index.html" />
     <Content Include="projects.html" />
     <Content Include="robots.txt" />
