@@ -67,7 +67,9 @@
   <ItemGroup>
     <Content Include="aboutMe.html" />
     <Content Include="contact.html" />
+    <Content Include="gitHub.html" />
     <Content Include="humans.txt" />
+    <Content Include="img\hat.jpg" />
     <Content Include="img\logo.jpg" />
     <Content Include="index.html" />
     <Content Include="projects.html" />
